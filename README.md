@@ -1,6 +1,6 @@
 # CODSOFT
 ## Python Projects Repository
-This repository contains three Python projects that demonstrate different aspects of programming, data analysis, and machine learning:
+This repository contains three Python projects that demonstrate different aspects of programming, data analysis, and machine learning:<br>
 ### Titanic Survival Prediction
 A machine learning project that predicts passenger survival on the Titanic using features such as age, gender, class, and fare.<br>
 Implements data preprocessing, exploratory data analysis (EDA), and model building using algorithms like Logistic Regression, Random Forest, or others.<br>
